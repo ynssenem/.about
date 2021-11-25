@@ -1,4 +1,4 @@
-## My Custom Options For VSCode
+### My Custom Options For VSCode
 
 ```
 //settings.json
