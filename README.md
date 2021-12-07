@@ -1,19 +1,2 @@
-### My Custom Options For VSCode
-
-```
-//settings.json
-{
-    "editor.fontSize": 20,
-    "editor.lineHeight": 40,
-    "terminal.integrated.fontSize": 18,
-    "window.zoomLevel": 1.5,
-    "[json]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "workbench.iconTheme": "material-icon-theme",
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.colorTheme": "Night Owl"
-}
-```
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Yunus, Fullstack developer from <b>Ankara,TR</b>. </p>
